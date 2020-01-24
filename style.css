@@ -1,0 +1,41 @@
+body{
+font-family: Arial, sans-serif;
+  background-color:white;
+}
+
+h1 {
+  color: purple;
+  text-align: center;
+  border-bottom: solid 1px black;
+}
+h2 {
+  color: gray;
+  text-align: center;
+
+}
+thead {
+  background-color: black;
+  color: white;
+}
+thead tr {
+  color: white;
+}
+
+tr {
+  color: purple;
+}
+
+.code {
+  font-family: monospace;
+  background-color: beige;
+}
+
+table,th, td {
+  border: solid 2px gray;
+  border-collapse: collapse;
+}
+
+table {
+       width: 650px;
+    margin: 0 auto;
+}
